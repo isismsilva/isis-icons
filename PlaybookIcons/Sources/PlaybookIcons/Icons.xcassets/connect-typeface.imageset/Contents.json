@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "connect-typeface.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
